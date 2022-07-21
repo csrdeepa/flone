@@ -1,0 +1,2339 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Flone Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-26 05:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: inc/em-widgets/flone-map.php:78
+msgid " Disable the zoom action when mouse wheel focus on maps."
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:158
+msgid "$99.00"
+msgstr ""
+
+#. %s: title of menu item which is invalid
+#: inc/megamenu/backend-menu-walker.php:71
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: inc/megamenu/backend-menu-walker.php:75
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#. %s: product count
+#: inc/ajax-filter/widgets/class-flone-widget-product-tag-cloud.php:83
+#, php-format
+msgid "%s product"
+msgid_plural "%s products"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/em-widgets/flone-icon-with-info.php:50
+msgid "+012 345 678 102"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:78
+#: inc/em-widgets/flone-tabbed-products-2.php:58
+#: inc/em-widgets/flone-products.php:144
+#: inc/em-widgets/flone-tabbed-products.php:78
+#: inc/em-widgets/flone-tabbed-products.php:176
+msgid "2"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:79 inc/em-widgets/flone-products.php:145
+#: inc/em-widgets/flone-tabbed-products.php:177
+msgid "3"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:134
+#, php-format
+msgid "30% off Summer Vacation"
+msgstr ""
+
+#: inc/em-widgets/flone-counter.php:47
+msgid "360"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:80 inc/em-widgets/flone-products.php:146
+#: inc/em-widgets/flone-tabbed-products.php:178
+msgid "4"
+msgstr ""
+
+#: inc/em-widgets/flone-map.php:44 inc/em-widgets/flone-map.php:107
+msgid "40.6700, -73.9400"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:147
+#: inc/em-widgets/flone-tabbed-products.php:179
+msgid "5"
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:42
+msgid "6666969077"
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:54
+msgid "6666969077.1677ed0.d325f406d94c4dfab939137c5c2cc6c2"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-tag-cloud.php:16
+msgid "A cloud of your most used product tags."
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:30
+msgid "A list or dropdown of product categories."
+msgstr ""
+
+#: inc/currency/views/backend.php:66
+msgid "Action"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:355
+#: inc/em-widgets/flone-tabbed-products.php:453
+msgid "Active Menu Border"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:55
+#: inc/em-widgets/flone-tabbed-products.php:75
+msgid "Active Nav Number"
+msgstr ""
+
+#: inc/em-widgets/flone-brands.php:38
+msgid "Add Images"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"After install the Flone WordPress Theme, you must need to install this "
+"\"Flone Core Plugin\" first to get all functions of flone Theme."
+msgstr ""
+
+#: inc/currency/init.php:102 inc/currency/views/backend.php:54
+msgid "All Currencies"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-layered-nav.php:97
+msgid "AND"
+msgstr ""
+
+#. %s: taxonomy name
+#: inc/ajax-filter/widgets/class-flone-widget-layered-nav.php:248
+#, php-format
+msgid "Any %s"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-layered-nav.php:286
+msgid "Apply"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:372
+#: inc/em-widgets/flone-testimonial.php:458 inc/em-widgets/flone-slider.php:769
+msgid "Arrow BG Color"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:362 inc/em-widgets/flone-slider.php:759
+msgid "Arrow Color"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:789
+msgid "Arrow Hover BG Color"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:448 inc/em-widgets/flone-slider.php:779
+msgid "Arrow Hover Color"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:294 inc/em-widgets/flone-slider.php:288
+msgid "Arrow Style"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:137
+#: inc/em-widgets/flone-tabbed-products-2.php:128
+#: inc/em-widgets/flone-products.php:173
+#: inc/em-widgets/flone-tabbed-products.php:206
+msgid "Ascending"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-layered-nav.php:80
+msgid "Attribute"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:253
+#: inc/em-widgets/flone-instagram.php:110
+#: inc/em-widgets/flone-tabbed-products-2.php:197
+#: inc/em-widgets/flone-products.php:254 inc/em-widgets/flone-slider.php:247
+#: inc/em-widgets/flone-brands.php:67
+#: inc/em-widgets/flone-product-categories.php:144
+#: inc/em-widgets/flone-tabbed-products.php:287
+msgid "Autoplay speed"
+msgstr ""
+
+#: inc/em-widgets/flone-banner.php:13
+msgid "Banner"
+msgstr ""
+
+#: inc/em-widgets/flone-banner.php:117
+msgid "Banner Link"
+msgstr ""
+
+#: inc/em-widgets/flone-banner.php:35
+msgid "Banner style"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:69
+#: inc/em-widgets/flone-products.php:55
+#: inc/em-widgets/flone-tabbed-products.php:89
+msgid "Best Selling Products"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:937
+#: inc/em-widgets/flone-tabbed-products.php:1079
+msgid "BG COlor"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:843
+#: inc/em-widgets/flone-tabbed-products.php:985
+msgid "BG Color"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:46
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:13
+msgid "Blog Posts"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:384
+#: inc/em-widgets/flone-testimonial.php:469
+#: inc/em-widgets/flone-products.php:637 inc/em-widgets/flone-products.php:859
+#: inc/em-widgets/flone-products.php:952
+#: inc/em-widgets/flone-tabbed-products.php:739
+#: inc/em-widgets/flone-tabbed-products.php:1001
+#: inc/em-widgets/flone-tabbed-products.php:1094
+msgid "Border"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:269
+#: inc/em-widgets/flone-section-title.php:115
+msgid "Border Color"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:391
+#: inc/em-widgets/flone-testimonial.php:476
+#: inc/em-widgets/flone-countdown.php:301
+#: inc/em-widgets/flone-newsletter.php:252
+#: inc/em-widgets/flone-products.php:647 inc/em-widgets/flone-products.php:866
+#: inc/em-widgets/flone-products.php:959 inc/em-widgets/flone-slider.php:522
+#: inc/em-widgets/flone-product-categories.php:346
+#: inc/em-widgets/flone-tabbed-products.php:749
+#: inc/em-widgets/flone-tabbed-products.php:1008
+#: inc/em-widgets/flone-tabbed-products.php:1101
+msgid "Border Radius"
+msgstr ""
+
+#: inc/em-widgets/flone-brands.php:13
+msgid "Brands"
+msgstr ""
+
+#: inc/em-widgets/flone-product-categories.php:274
+msgid "Button"
+msgstr ""
+
+#: inc/em-widgets/flone-product-categories.php:304
+msgid "Button background color"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:273 inc/em-widgets/flone-slider.php:618
+msgid "Button BG Color"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:294 inc/em-widgets/flone-slider.php:649
+#: inc/em-widgets/flone-product-categories.php:336
+msgid "Button Border"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:588
+msgid "Button Border Color"
+msgstr ""
+
+#: inc/em-widgets/flone-product-categories.php:440
+msgid "Button Border Hover"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:603
+msgid "Button Border Hover Color"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:253 inc/em-widgets/flone-slider.php:558
+msgid "Button Color"
+msgstr ""
+
+#: inc/em-widgets/flone-product-categories.php:285
+msgid "Button color"
+msgstr ""
+
+#: inc/em-widgets/flone-product-categories.php:392
+msgid "Button Hover"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:283 inc/em-widgets/flone-slider.php:633
+msgid "Button Hover BG Color"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:263 inc/em-widgets/flone-slider.php:573
+msgid "Button Hover Color"
+msgstr ""
+
+#: inc/em-widgets/flone-banner.php:88
+msgid "Button Icon"
+msgstr ""
+
+#: inc/em-widgets/flone-banner.php:101
+msgid "Button Icon Link"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:130 inc/em-widgets/flone-slider.php:191
+msgid "Button Link"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:678
+#: inc/em-widgets/flone-product-categories.php:377
+msgid "Button Margin"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:314 inc/em-widgets/flone-slider.php:541
+#: inc/em-widgets/flone-slider.php:661
+#: inc/em-widgets/flone-product-categories.php:362
+msgid "Button Padding"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:813
+#: inc/em-widgets/flone-tabbed-products.php:955
+msgid "Button Space"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:120 inc/em-widgets/flone-slider.php:183
+#: inc/em-widgets/flone-product-categories.php:83
+msgid "Button Text"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:243 inc/em-widgets/flone-slider.php:507
+msgid "Button Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:616 inc/em-widgets/flone-blog.php:653
+msgid "By"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:223
+msgid "Cancel"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:133
+#: inc/em-widgets/flone-tabbed-products.php:165
+msgid "Carousel"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:343
+#: inc/em-widgets/flone-products.php:791
+#: inc/em-widgets/flone-tabbed-products.php:933
+msgid "Carousel Button"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:35
+msgid "Categories"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:331
+msgid "Category Bg Color"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:355
+msgid "Category Bg Color 2"
+msgstr ""
+
+#: inc/em-widgets/flone-product-categories.php:503
+msgid "Category Image"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:44
+msgid "Category order"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:162
+msgid "Category Position"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:343
+msgid "Category Text Color"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:367
+msgid "Category Text Color 2"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:319
+msgid "Category Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-masonary-products.php:89
+#: inc/em-widgets/flone-tabbed-products.php:67
+msgid "Center"
+msgstr ""
+
+#: inc/customizer-init.php:19
+msgid "Change logo"
+msgstr ""
+
+#: inc/customizer-init.php:24
+msgid "Choose logo Light"
+msgstr ""
+
+#. Author of the plugin
+msgid "codecarnival"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:828 inc/em-widgets/flone-products.php:922
+#: inc/em-widgets/flone-tabbed-products.php:970
+#: inc/em-widgets/flone-tabbed-products.php:1064
+msgid "COlor"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:197
+msgid "Color"
+msgstr ""
+
+#: inc/em-widgets/flone-masonary-products.php:98
+msgid "Column Class"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:140
+#: inc/em-widgets/flone-tabbed-products.php:172
+msgid "Columns"
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:123
+#: inc/em-widgets/flone-tabbed-products-2.php:251
+#: inc/em-widgets/flone-products.php:315 inc/em-widgets/flone-brands.php:89
+#: inc/em-widgets/flone-product-categories.php:157
+#: inc/em-widgets/flone-tabbed-products.php:348
+msgid "Columns On Desktop"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:74
+msgid "Columns On Each Row"
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:157
+#: inc/em-widgets/flone-tabbed-products-2.php:285
+#: inc/em-widgets/flone-products.php:358 inc/em-widgets/flone-brands.php:123
+#: inc/em-widgets/flone-product-categories.php:191
+#: inc/em-widgets/flone-tabbed-products.php:391
+msgid "Columns On Mobile"
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:140
+#: inc/em-widgets/flone-tabbed-products-2.php:268
+#: inc/em-widgets/flone-products.php:336 inc/em-widgets/flone-brands.php:106
+#: inc/em-widgets/flone-product-categories.php:174
+#: inc/em-widgets/flone-tabbed-products.php:369
+msgid "Columns On Tablet"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:79
+msgid "Comment"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:140
+msgid "Comment Color"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:119
+#: inc/em-widgets/flone-tabbed-products-2.php:148
+#: inc/em-widgets/flone-products.php:193
+#: inc/em-widgets/flone-tabbed-products.php:226
+msgid "Comment count"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:128
+msgid "Comment Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:97
+#: inc/em-widgets/flone-tabbed-products.php:131
+msgid "Compare Button"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:32 inc/em-widgets/flone-map.php:33
+#: inc/em-widgets/flone-counter.php:27 inc/em-widgets/flone-instagram.php:32
+#: inc/em-widgets/flone-countdown.php:32 inc/em-widgets/flone-blog.php:27
+#: inc/em-widgets/flone-tabbed-products-2.php:27
+#: inc/em-widgets/flone-newsletter.php:27 inc/em-widgets/flone-products.php:27
+#: inc/em-widgets/flone-banner.php:27
+#: inc/em-widgets/flone-masonary-products.php:27
+#: inc/em-widgets/flone-welcome-content.php:27
+#: inc/em-widgets/flone-icon-with-info.php:27 inc/em-widgets/flone-team.php:27
+#: inc/em-widgets/flone-brands.php:32
+#: inc/em-widgets/flone-product-categories.php:32
+#: inc/em-widgets/flone-tabbed-products.php:27
+msgid "Content"
+msgstr ""
+
+#: inc/em-widgets/flone-banner.php:132
+msgid "Content Alignment"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:415 inc/em-widgets/flone-products.php:747
+#: inc/em-widgets/flone-tabbed-products.php:892
+msgid "Content Box BG"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:403 inc/em-widgets/flone-products.php:760
+#: inc/em-widgets/flone-tabbed-products.php:905
+msgid "Content Box Margin"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:391 inc/em-widgets/flone-products.php:772
+#: inc/em-widgets/flone-tabbed-products.php:917
+msgid "Content Box Padding"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:740
+#: inc/em-widgets/flone-tabbed-products.php:885
+msgid "Content Box Style "
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:379
+msgid "Content Wrap Box Padding"
+msgstr ""
+
+#: inc/widgets/widget-footer-logo.php:111
+msgid "Content:"
+msgstr ""
+
+#: inc/em-widgets/flone-product-categories.php:263
+msgid "Count Text Color"
+msgstr ""
+
+#: inc/em-widgets/flone-product-categories.php:251
+msgid "Count Text Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:13
+msgid "Countdown"
+msgstr ""
+
+#: inc/em-widgets/flone-counter.php:13
+msgid "Counter"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:227
+msgid "Counter Number Color"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:214
+msgid "Counter Number Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:200
+msgid "Counter Text Color"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:187
+msgid "Counter Text Typography"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:148
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/currency/init.php:103
+msgid "Currencies"
+msgstr ""
+
+#: inc/currency/views/backend.php:60 inc/currency/views/backend.php:99
+msgid "Currency"
+msgstr ""
+
+#: inc/currency/views/backend.php:61 inc/currency/views/backend.php:109
+msgid "Currency Position"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:62
+msgid "Custom Label"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:99
+#: inc/em-widgets/flone-tabbed-products-2.php:113
+#: inc/em-widgets/flone-products.php:158
+#: inc/em-widgets/flone-tabbed-products.php:191
+msgid "Custom order"
+msgstr ""
+
+#: inc/em-widgets/flone-masonary-products.php:51
+#: inc/em-widgets/flone-masonary-products.php:61
+msgid "Custom Product Image"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:94
+#: inc/em-widgets/flone-testimonial.php:99
+msgid "Customer"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:116
+#: inc/em-widgets/flone-tabbed-products-2.php:145
+#: inc/em-widgets/flone-products.php:190
+#: inc/em-widgets/flone-tabbed-products.php:223
+msgid "Date"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:71 inc/em-widgets/flone-countdown.php:73
+msgid "Days"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:42
+msgid "Deal of the day"
+msgstr ""
+
+#: inc/currency/views/backend.php:63 inc/currency/views/backend.php:124
+msgid "Decimal Separator"
+msgstr ""
+
+#: inc/customizer-init.php:21 inc/metabox/metabox-init.php:51
+#: inc/metabox/metabox-init.php:62 inc/metabox/metabox-init.php:73
+#: inc/metabox/metabox-init.php:85 inc/em-widgets/flone-tabbed-products.php:65
+msgid "Default"
+msgstr ""
+
+#: inc/em-widgets/flone-newsletter.php:100
+#: inc/em-widgets/flone-newsletter.php:126 inc/em-widgets/flone-banner.php:212
+#: inc/em-widgets/flone-welcome-content.php:157
+msgid "Desc Color"
+msgstr ""
+
+#: inc/em-widgets/flone-banner.php:236
+msgid "Desc Color 2"
+msgstr ""
+
+#: inc/em-widgets/flone-banner.php:248
+msgid "Desc Margin"
+msgstr ""
+
+#: inc/em-widgets/flone-banner.php:259
+msgid "Desc Margin 2"
+msgstr ""
+
+#: inc/em-widgets/flone-newsletter.php:114 inc/em-widgets/flone-banner.php:200
+#: inc/em-widgets/flone-welcome-content.php:145
+msgid "Desc Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-banner.php:224
+msgid "Desc Typography 2"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:136
+#: inc/em-widgets/flone-tabbed-products-2.php:127
+#: inc/em-widgets/flone-products.php:172
+#: inc/em-widgets/flone-tabbed-products.php:205
+msgid "Descending"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:55 inc/em-widgets/flone-banner.php:59
+#: inc/em-widgets/flone-section-title.php:41
+#: inc/megamenu/backend-menu-walker.php:160
+msgid "Description"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:183
+#: inc/em-widgets/flone-section-title.php:102
+msgid "Description Color"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:172
+#: inc/em-widgets/flone-section-title.php:92
+msgid "Description Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:70 inc/em-widgets/flone-team.php:45
+msgid "Designation"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:192 inc/em-widgets/flone-team.php:245
+msgid "Designation Color"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:180 inc/em-widgets/flone-team.php:233
+msgid "Designation Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-team.php:47
+msgid "Developer"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:178
+msgid "Disable Column Title"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-layered-nav.php:21
+msgid "Display a list of attributes to filter products in your store."
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-price-filter.php:14
+msgid "Display a slider to filter products in your store by price."
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-layered-nav.php:86
+msgid "Display type"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-layered-nav.php:89
+msgid "Dropdown"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:50
+msgid "Due Date"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:112
+#: inc/megamenu/backend-menu-walker.php:114
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/em-widgets/flone-newsletter.php:165
+msgid "Email Border Color"
+msgstr ""
+
+#: inc/em-widgets/flone-newsletter.php:151
+msgid "Email Placeholder Color"
+msgstr ""
+
+#: inc/em-widgets/flone-newsletter.php:139
+msgid "Email Text Color"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:242
+#: inc/em-widgets/flone-instagram.php:99
+#: inc/em-widgets/flone-tabbed-products-2.php:186
+#: inc/em-widgets/flone-products.php:239 inc/em-widgets/flone-brands.php:56
+#: inc/em-widgets/flone-product-categories.php:133
+#: inc/em-widgets/flone-tabbed-products.php:272
+msgid "Enable Auto Play"
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:88
+#: inc/em-widgets/flone-product-categories.php:112
+msgid "Enable Dots"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:164
+#: inc/em-widgets/flone-products.php:209
+#: inc/em-widgets/flone-product-categories.php:100
+#: inc/em-widgets/flone-tabbed-products.php:242
+msgid "Enable Loop"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:184
+msgid "Enable MegaMenu"
+msgstr ""
+
+#: inc/em-widgets/flone-map.php:75
+msgid "Enable Wheel Zoom"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:265
+#: inc/ajax-filter/widgets/class-flone-widget-layered-nav.php:320
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:218
+msgid "Enter button text"
+msgstr ""
+
+#: inc/em-widgets/flone-product-categories.php:86
+msgid "Enter Shop Now button text"
+msgstr ""
+
+#: inc/em-widgets/flone-map.php:164
+msgid ""
+"Enter your Google Maps API from: Flone WP > Flone Options > General tab."
+msgstr ""
+
+#: inc/currency/views/backend.php:132
+msgid "Exchange Rate"
+msgstr ""
+
+#: inc/currency/views/backend.php:65
+#, php-format
+msgid "Exchange Rate(In %s)"
+msgstr ""
+
+#: inc/em-widgets/flone-team.php:169
+msgid "Facebook"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:70
+#: inc/em-widgets/flone-products.php:56
+#: inc/em-widgets/flone-tabbed-products.php:90
+msgid "Featured Products"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-layered-nav.php:74
+msgid "Filter by"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-price-filter.php:20
+msgid "Filter By Price Ajax"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:42
+#: inc/em-widgets/flone-tabbed-products.php:42
+msgid "Five"
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:131
+#: inc/em-widgets/flone-instagram.php:148
+#: inc/em-widgets/flone-instagram.php:165
+#: inc/em-widgets/flone-tabbed-products-2.php:259
+#: inc/em-widgets/flone-tabbed-products-2.php:276
+#: inc/em-widgets/flone-tabbed-products-2.php:293
+#: inc/em-widgets/flone-products.php:323 inc/em-widgets/flone-products.php:344
+#: inc/em-widgets/flone-products.php:366 inc/em-widgets/flone-brands.php:97
+#: inc/em-widgets/flone-brands.php:114 inc/em-widgets/flone-brands.php:131
+#: inc/em-widgets/flone-product-categories.php:165
+#: inc/em-widgets/flone-product-categories.php:182
+#: inc/em-widgets/flone-product-categories.php:199
+#: inc/em-widgets/flone-tabbed-products.php:356
+#: inc/em-widgets/flone-tabbed-products.php:377
+#: inc/em-widgets/flone-tabbed-products.php:399
+msgid "Five Column"
+msgstr ""
+
+#: inc/ajax-search/widgets/widget-product-search-ajax.php:9
+msgid "Flone Ajax Product Search Widget"
+msgstr ""
+
+#. Name of the plugin
+msgid "Flone Core"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:14
+msgid "Flone theme's custom widget"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-layered-nav.php:23
+msgid "Flone: Filter Products by Attribute Ajax"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-price-filter.php:16
+msgid "Flone: Filter Products by Price Ajax"
+msgstr ""
+
+#: inc/widgets/widget-footer-logo.php:19
+msgid "Flone: Footer Logo"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:32
+msgid "Flone: Product Categories Ajax"
+msgstr ""
+
+#: inc/ajax-search/widgets/widget-product-search-ajax.php:11
+msgid "Flone: Product Search Ajax"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-tag-cloud.php:18
+msgid "Flone: Product Tag Cloud Ajax"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:170
+msgid "Font Icon"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:41
+#: inc/em-widgets/flone-tabbed-products.php:41
+msgid "Four"
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:130
+#: inc/em-widgets/flone-instagram.php:147
+#: inc/em-widgets/flone-instagram.php:164
+#: inc/em-widgets/flone-tabbed-products-2.php:258
+#: inc/em-widgets/flone-tabbed-products-2.php:275
+#: inc/em-widgets/flone-tabbed-products-2.php:292
+#: inc/em-widgets/flone-products.php:322 inc/em-widgets/flone-products.php:343
+#: inc/em-widgets/flone-products.php:365 inc/em-widgets/flone-brands.php:96
+#: inc/em-widgets/flone-brands.php:113 inc/em-widgets/flone-brands.php:130
+#: inc/em-widgets/flone-product-categories.php:164
+#: inc/em-widgets/flone-product-categories.php:181
+#: inc/em-widgets/flone-product-categories.php:198
+#: inc/em-widgets/flone-tabbed-products.php:355
+#: inc/em-widgets/flone-tabbed-products.php:376
+#: inc/em-widgets/flone-tabbed-products.php:398
+msgid "Four Column"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:49
+msgid "Free Shipping"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:57
+#: inc/em-widgets/flone-section-title.php:43
+msgid "Free shipping on all order"
+msgstr ""
+
+#: inc/metabox/metabox-init.php:64 inc/metabox/metabox-init.php:75
+msgid "Full Width"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:398
+msgid "Gap Between Columns"
+msgstr ""
+
+#: inc/em-widgets/flone-map.php:127
+msgid ""
+"Go to <a href=\"https://snazzymaps.com/\" target=_blank>Snazzy Maps</a> and "
+"Choose/Customize your Map Style. Click on your demo and copy JavaScript "
+"Style Array"
+msgstr ""
+
+#: inc/em-widgets/flone-map.php:13
+msgid "Google Map"
+msgstr ""
+
+#: inc/em-widgets/flone-map.php:41
+msgid "Google Maps Latitude & Longitude"
+msgstr ""
+
+#: inc/em-widgets/flone-map.php:43
+msgid "Google Maps Latitude & Longitude, e.g. 40.6700, -73.9400"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:132
+#: inc/em-widgets/flone-tabbed-products.php:164
+msgid "Grid"
+msgstr ""
+
+#: inc/metabox/metabox-init.php:69
+msgid "Header Width"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:417
+#: inc/em-widgets/flone-products.php:605 inc/em-widgets/flone-products.php:892
+#: inc/em-widgets/flone-tabbed-products.php:707
+#: inc/em-widgets/flone-tabbed-products.php:1034
+msgid "Height"
+msgstr ""
+
+#: inc/metabox/metabox-init.php:53 inc/metabox/metabox-init.php:87
+#: inc/em-widgets/flone-blog.php:153 inc/em-widgets/flone-blog.php:198
+msgid "Hide"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:71
+msgid "Hide empty categories"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:83 inc/em-widgets/flone-countdown.php:85
+msgid "Hours"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:441
+#: inc/em-widgets/flone-products.php:916
+#: inc/em-widgets/flone-tabbed-products.php:1058
+msgid "Hover"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:473
+#: inc/em-widgets/flone-products.php:515
+#: inc/em-widgets/flone-tabbed-products.php:621
+msgid "Hover Action BG Color"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:487
+#: inc/em-widgets/flone-products.php:529
+#: inc/em-widgets/flone-tabbed-products.php:635
+msgid "Hover Action Item BG Color"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:515
+#: inc/em-widgets/flone-products.php:559
+#: inc/em-widgets/flone-tabbed-products.php:663
+msgid "Hover Action Item Hover BG Color"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:528
+#: inc/em-widgets/flone-products.php:573
+#: inc/em-widgets/flone-tabbed-products.php:676
+msgid "Hover Action Item Hover Text And Icon Color"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:500
+#: inc/em-widgets/flone-products.php:543
+#: inc/em-widgets/flone-tabbed-products.php:648
+msgid "Hover Action Item Text And Icon Color"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://hasthemes.com/"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:132 inc/em-widgets/flone-banner.php:103
+#: inc/em-widgets/flone-banner.php:119 inc/em-widgets/flone-slider.php:193
+#: inc/em-widgets/flone-team.php:102
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/em-widgets/flone-counter.php:55 inc/em-widgets/flone-service.php:71
+#: inc/em-widgets/flone-service.php:113
+#: inc/em-widgets/flone-icon-with-info.php:35 inc/em-widgets/flone-team.php:88
+msgid "Icon"
+msgstr ""
+
+#: inc/em-widgets/flone-icon-with-info.php:110
+#: inc/em-widgets/flone-icon-with-info.php:134
+#: inc/em-widgets/flone-team.php:128 inc/em-widgets/flone-team.php:152
+msgid "Icon Bg Color"
+msgstr ""
+
+#: inc/em-widgets/flone-counter.php:136 inc/em-widgets/flone-banner.php:273
+#: inc/em-widgets/flone-icon-with-info.php:98 inc/em-widgets/flone-team.php:116
+msgid "Icon Color"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:233
+msgid "Icon Hide"
+msgstr ""
+
+#: inc/em-widgets/flone-banner.php:285
+#: inc/em-widgets/flone-icon-with-info.php:122
+#: inc/em-widgets/flone-team.php:140
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/em-widgets/flone-team.php:79
+msgid "Icon Name"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:211
+msgid "Icon Size."
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:63
+msgid "Icon Type"
+msgstr ""
+
+#: inc/em-widgets/flone-icon-with-info.php:13
+msgid "Icon With Info"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:115
+#: inc/em-widgets/flone-tabbed-products-2.php:144
+#: inc/em-widgets/flone-products.php:189
+#: inc/em-widgets/flone-tabbed-products.php:222
+msgid "ID"
+msgstr ""
+
+#: inc/widgets/widget-footer-logo.php:43 inc/widgets/widget-footer-logo.php:105
+#: inc/em-widgets/flone-testimonial.php:42
+#: inc/em-widgets/flone-testimonial.php:215 inc/em-widgets/flone-service.php:67
+#: inc/em-widgets/flone-service.php:85 inc/em-widgets/flone-banner.php:69
+#: inc/em-widgets/flone-slider.php:87 inc/em-widgets/flone-team.php:55
+msgid "Image"
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:222
+msgid "Incorrect user ID specified."
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:13 inc/em-widgets/flone-team.php:177
+msgid "Instagram"
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:52
+msgid "Instagram Access Token"
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:40
+msgid "Instagram user ID"
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:63
+msgid "Item Limit (Max 12)"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:93
+#: inc/em-widgets/flone-testimonial.php:98 inc/em-widgets/flone-team.php:37
+msgid "John Doe"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:165 inc/em-widgets/flone-banner.php:136
+#: inc/em-widgets/flone-masonary-products.php:88
+#: inc/em-widgets/flone-tabbed-products.php:66
+msgid "Left"
+msgstr ""
+
+#: inc/currency/views/backend.php:112
+msgid "Left ($99.99)"
+msgstr ""
+
+#: inc/customizer-init.php:42
+msgid "Left Arrow"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:110
+msgid "Left Image"
+msgstr ""
+
+#: inc/currency/views/backend.php:114
+msgid "Left with space ($ 99.99)"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:181
+msgid "Limit words you want show as short title "
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:154
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-layered-nav.php:88
+msgid "List"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:1093
+msgid "logo"
+msgstr ""
+
+#: inc/customizer-init.php:14
+msgid "Logo Light"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:265
+#: inc/em-widgets/flone-instagram.php:77 inc/em-widgets/flone-slider.php:259
+#: inc/em-widgets/flone-brands.php:79
+msgid "Loop"
+msgstr ""
+
+#: inc/em-widgets/flone-welcome-content.php:57
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt labor et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commo "
+"consequat irure"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:95
+#: inc/em-widgets/flone-testimonial.php:100
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio nisi sed, "
+"molestias voluptatum accusantium repudiandae dolorum, dolorem soluta et quo! "
+"Rem, voluptatibus. Ratione sint aliquid explicabo laudantium repellendus "
+"voluptas aut."
+msgstr ""
+
+#: inc/em-widgets/flone-masonary-products.php:52
+msgid "Main Product Thumbnail"
+msgstr ""
+
+#: inc/em-widgets/flone-map.php:52
+msgid "Map Height"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:235
+#: inc/em-widgets/flone-tabbed-products-2.php:176
+#: inc/em-widgets/flone-products.php:225
+#: inc/em-widgets/flone-product-categories.php:123
+#: inc/em-widgets/flone-tabbed-products.php:258
+msgid "Margin"
+msgstr ""
+
+#: inc/em-widgets/flone-map.php:115
+msgid "Marker Image"
+msgstr ""
+
+#: inc/em-widgets/flone-map.php:104
+msgid "Marker Latitude & Longitude"
+msgstr ""
+
+#: inc/em-widgets/flone-map.php:106
+msgid "Marker Latitude & Longitude, e.g. 40.6700, -73.9400"
+msgstr ""
+
+#: inc/em-widgets/flone-masonary-products.php:13
+msgid "Masonary Products"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:76
+msgid "Maximum depth"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:197
+msgid "MegaMenu Background Image"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:190
+msgid "MegaMenu Left Position"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:293
+msgid "Meta Info Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:149
+#: inc/em-widgets/flone-products.php:194
+#: inc/em-widgets/flone-tabbed-products.php:227
+msgid "Meta value Number"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:95 inc/em-widgets/flone-countdown.php:97
+msgid "Minutes"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:73
+#: inc/em-widgets/flone-products.php:59
+#: inc/em-widgets/flone-tabbed-products.php:93
+msgid "Mixed order Products"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:110
+msgid "Move down"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:97
+msgid "Move up"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:61 inc/em-widgets/flone-blog.php:117
+#: inc/em-widgets/flone-tabbed-products-2.php:146
+#: inc/em-widgets/flone-products.php:191 inc/em-widgets/flone-team.php:35
+#: inc/em-widgets/flone-tabbed-products.php:224
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:45
+msgid "Name"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:166 inc/em-widgets/flone-team.php:218
+msgid "Name Color"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:154 inc/em-widgets/flone-team.php:206
+msgid "Name Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:366
+#: inc/em-widgets/flone-tabbed-products.php:464
+msgid "Nav Menu Active Color"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products.php:475
+msgid "Nav Menu Box"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:343
+#: inc/em-widgets/flone-tabbed-products.php:441
+msgid "Nav Menu Color"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:332
+#: inc/em-widgets/flone-tabbed-products.php:430
+msgid "Nav Menu Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products.php:61
+msgid "Navigation Alignment"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:129
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/em-widgets/flone-section-title.php:35
+msgid "New Arrival"
+msgstr ""
+
+#: inc/currency/views/backend.php:79 inc/currency/views/backend.php:87
+msgid "New Currency"
+msgstr ""
+
+#: inc/em-widgets/flone-newsletter.php:13
+msgid "Newsletter"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:325
+#: inc/em-widgets/flone-tabbed-products-2.php:235
+#: inc/em-widgets/flone-products.php:298 inc/em-widgets/flone-slider.php:319
+#: inc/em-widgets/flone-tabbed-products.php:331
+msgid "Next Icon"
+msgstr ""
+
+#: inc/currency/views/backend.php:71
+msgid "No currency found ..."
+msgstr ""
+
+#: inc/customizer-init.php:22
+msgid "No logo selected"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:676
+msgid "No posts found!"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:280
+msgid "No product categories exist."
+msgstr ""
+
+#: inc/ajax-search/base.php:153
+msgid "No Results Found"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:114
+#: inc/em-widgets/flone-tabbed-products-2.php:143
+#: inc/em-widgets/flone-products.php:188
+#: inc/em-widgets/flone-tabbed-products.php:221
+msgid "None"
+msgstr ""
+
+#: inc/metabox/metabox-init.php:63 inc/metabox/metabox-init.php:74
+#: inc/em-widgets/flone-testimonial.php:353
+#: inc/em-widgets/flone-products.php:805
+#: inc/em-widgets/flone-tabbed-products.php:947
+msgid "Normal"
+msgstr ""
+
+#: inc/em-widgets/flone-counter.php:45
+msgid "Number"
+msgstr ""
+
+#: inc/currency/views/backend.php:64 inc/currency/views/backend.php:128
+msgid "Number of Decimals"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:60
+msgid "Number Of Post To Display"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:98
+#: inc/em-widgets/flone-products.php:84
+#: inc/em-widgets/flone-tabbed-products.php:118
+msgid "Number Of Product To Display"
+msgstr ""
+
+#: inc/em-widgets/flone-counter.php:111
+msgid "Number Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:38
+#: inc/em-widgets/flone-products.php:38 inc/em-widgets/flone-banner.php:39
+#: inc/em-widgets/flone-tabbed-products.php:38
+#: inc/em-widgets/flone-tabbed-products.php:53
+msgid "One"
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:127
+#: inc/em-widgets/flone-instagram.php:144
+#: inc/em-widgets/flone-instagram.php:161
+#: inc/em-widgets/flone-tabbed-products-2.php:255
+#: inc/em-widgets/flone-tabbed-products-2.php:272
+#: inc/em-widgets/flone-tabbed-products-2.php:289
+#: inc/em-widgets/flone-products.php:319 inc/em-widgets/flone-products.php:340
+#: inc/em-widgets/flone-products.php:362 inc/em-widgets/flone-brands.php:93
+#: inc/em-widgets/flone-brands.php:110 inc/em-widgets/flone-brands.php:127
+#: inc/em-widgets/flone-product-categories.php:161
+#: inc/em-widgets/flone-product-categories.php:178
+#: inc/em-widgets/flone-product-categories.php:195
+#: inc/em-widgets/flone-tabbed-products.php:352
+#: inc/em-widgets/flone-tabbed-products.php:373
+#: inc/em-widgets/flone-tabbed-products.php:395
+msgid "One Column"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:66
+msgid "Only show children of the current category"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:143
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-layered-nav.php:98
+msgid "OR"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:132
+msgid "Order"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:123
+#: inc/em-widgets/flone-products.php:168
+#: inc/em-widgets/flone-tabbed-products.php:201
+msgid "order"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:42
+msgid "Order by"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:110
+#: inc/em-widgets/flone-tabbed-products-2.php:139
+#: inc/em-widgets/flone-products.php:184
+#: inc/em-widgets/flone-tabbed-products.php:217
+msgid "Orderby"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:209
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:251
+msgid "Padding"
+msgstr ""
+
+#: inc/metabox/metabox-init.php:43
+msgid "Page"
+msgstr ""
+
+#: inc/metabox/metabox-init.php:21
+msgid "Page Options"
+msgstr ""
+
+#: inc/customizer-init.php:45
+msgid "pe-cup"
+msgstr ""
+
+#: inc/customizer-init.php:46
+msgid "pe-light"
+msgstr ""
+
+#: inc/customizer-init.php:44
+msgid "pe-portfolio"
+msgstr ""
+
+#: inc/customizer-init.php:47
+msgid "pe-smile"
+msgstr ""
+
+#: inc/em-widgets/flone-masonary-products.php:191
+msgid "Please Select Product"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:127
+msgid "Posts to show:"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:310
+#: inc/em-widgets/flone-tabbed-products-2.php:220
+#: inc/em-widgets/flone-products.php:282 inc/em-widgets/flone-slider.php:304
+#: inc/em-widgets/flone-tabbed-products.php:315
+msgid "Previous Icon"
+msgstr ""
+
+#: inc/em-widgets/flone-team.php:100
+msgid "Prfile Link"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:156
+msgid "Price"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:145
+msgid "Price Label"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:718
+msgid "Price Position From Right."
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:737
+msgid "Price Position From Top."
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:167
+msgid "Price Shape BG"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:695
+msgid "Price Text Color"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:708
+msgid "Price Text Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:724
+#: inc/em-widgets/flone-tabbed-products.php:869
+msgid "Product Box Border"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:733
+#: inc/em-widgets/flone-tabbed-products.php:878
+msgid "Product Box Border Hover"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:714
+#: inc/em-widgets/flone-tabbed-products.php:859
+msgid "Product Box Style "
+msgstr ""
+
+#: inc/em-widgets/flone-product-categories.php:13
+msgid "Product Categories"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:36
+msgid "Product Categories Ajax"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:128
+#: inc/em-widgets/flone-tabbed-products.php:160
+msgid "Product Layout"
+msgstr ""
+
+#: inc/ajax-search/widgets/widget-product-search-ajax.php:48
+msgid "Product Limit:"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products.php:49
+msgid "Product Navigation style"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:447
+#: inc/em-widgets/flone-products.php:489
+#: inc/em-widgets/flone-tabbed-products.php:595
+msgid "Product Old Price Color"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:459
+#: inc/em-widgets/flone-products.php:501
+#: inc/em-widgets/flone-tabbed-products.php:607
+msgid "Product Old Price Separator Color"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:435
+#: inc/em-widgets/flone-products.php:477
+#: inc/em-widgets/flone-tabbed-products.php:583
+msgid "Product Price Color"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:424
+#: inc/em-widgets/flone-products.php:466
+#: inc/em-widgets/flone-tabbed-products.php:572
+msgid "Product Price Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:34
+#: inc/em-widgets/flone-products.php:34
+#: inc/em-widgets/flone-tabbed-products.php:34
+msgid "Product style"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-tag-cloud.php:22
+msgid "Product Tags Ajax"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:395
+#: inc/em-widgets/flone-products.php:437
+#: inc/em-widgets/flone-tabbed-products.php:543
+msgid "Product Title Color"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:409
+#: inc/em-widgets/flone-products.php:451
+#: inc/em-widgets/flone-tabbed-products.php:557
+msgid "Product Title Hover Color"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:381
+#: inc/em-widgets/flone-products.php:423
+#: inc/em-widgets/flone-tabbed-products.php:529
+msgid "Product Title Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:13
+#: inc/em-widgets/flone-product-categories.php:508
+msgid "Products"
+msgstr ""
+
+#: inc/em-widgets/flone-masonary-products.php:108
+msgid "Products List"
+msgstr ""
+
+#: inc/em-widgets/flone-counter.php:37
+msgid "Project Done"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:173
+msgid ""
+"put only font-awesome class name.  such as ( fa fa-heart ) not anything else."
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:193
+msgid ""
+"put pixel value here. such as ( -500 ). whatever you want. this value can be "
+"+ or -"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-layered-nav.php:95
+msgid "Query type"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:106
+#: inc/em-widgets/flone-tabbed-products.php:140
+msgid "Quick View Button"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:120
+#: inc/em-widgets/flone-tabbed-products-2.php:150
+#: inc/em-widgets/flone-products.php:195
+#: inc/em-widgets/flone-tabbed-products.php:228
+msgid "Random"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:464
+msgid "Read More BG Color"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:488
+msgid "Read More Border"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:529
+msgid "Read More Border Bottom"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:517
+msgid "Read More Border Radius"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:215
+msgid "Read More Button Text"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:433
+msgid "Read More color"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:448
+msgid "Read More Hover color"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:495
+msgid "Read More margin"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:506
+msgid "Read More Padding"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:206
+msgid "Read More Show/Hide"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:426
+msgid "Read More Style"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:37
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:18
+msgid "Recent Posts : Flone"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:68
+#: inc/em-widgets/flone-products.php:54
+#: inc/em-widgets/flone-tabbed-products.php:88
+msgid "Recent Products"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:172
+msgid "Recommended Size Is: 130x126 px"
+msgstr ""
+
+#: inc/customizer-init.php:20 inc/megamenu/backend-menu-walker.php:222
+msgid "Remove"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:166 inc/em-widgets/flone-banner.php:137
+#: inc/em-widgets/flone-tabbed-products.php:68
+msgid "Right"
+msgstr ""
+
+#: inc/currency/views/backend.php:113
+msgid "Right (99.99$)"
+msgstr ""
+
+#: inc/customizer-init.php:43
+msgid "Right Arrow"
+msgstr ""
+
+#: inc/currency/views/backend.php:115
+msgid "Right with space (99.99 $)"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:147
+msgid "Sale"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:71
+#: inc/em-widgets/flone-products.php:57
+#: inc/em-widgets/flone-tabbed-products.php:91
+msgid "Sale Products"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:578
+#: inc/em-widgets/flone-products.php:704
+#: inc/em-widgets/flone-tabbed-products.php:848
+msgid "Saleflash BG Color"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:588
+msgid "Saleflash BG Color 2"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:557
+#: inc/em-widgets/flone-products.php:693
+#: inc/em-widgets/flone-tabbed-products.php:837
+msgid "Saleflash Text Color"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:567
+msgid "Saleflash Text Color 2"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:546
+#: inc/em-widgets/flone-products.php:682
+#: inc/em-widgets/flone-tabbed-products.php:826
+msgid "Saleflash Typography"
+msgstr ""
+
+#: inc/currency/views/backend.php:136
+msgid "Save"
+msgstr ""
+
+#: inc/ajax-search/widgets/widget-product-search-ajax.php:25
+msgid "Search products"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:107
+#: inc/em-widgets/flone-countdown.php:109
+msgid "Seconds"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:47
+#: inc/em-widgets/flone-section-title.php:13
+#: inc/em-widgets/flone-section-title.php:27
+msgid "Section Title"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:317
+msgid "Section Title Color"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:259
+msgid "Select a category"
+msgstr ""
+
+#: inc/customizer-init.php:18
+msgid "Select logo"
+msgstr ""
+
+#: inc/customizer-init.php:23
+msgid "Select logo Light"
+msgstr ""
+
+#: inc/em-widgets/flone-masonary-products.php:37
+msgid "Select Product"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:80
+#: inc/em-widgets/flone-products.php:66
+#: inc/em-widgets/flone-product-categories.php:54
+#: inc/em-widgets/flone-tabbed-products.php:100
+msgid "Select Product Categories"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:64
+#: inc/em-widgets/flone-tabbed-products.php:84
+msgid "Select Product Pype"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:50
+msgid "Select Product Type"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:204
+msgid "Separator Icon Color"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:13
+msgid "Service"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:135
+msgid "Service Stying Options"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:185
+msgid "SHOP NOW"
+msgstr ""
+
+#: inc/em-widgets/flone-product-categories.php:74
+msgid "Shop Now Button Show/Hide"
+msgstr ""
+
+#: inc/em-widgets/flone-newsletter.php:62
+msgid "Shortcode"
+msgstr ""
+
+#: inc/metabox/metabox-init.php:52 inc/metabox/metabox-init.php:86
+#: inc/em-widgets/flone-blog.php:152 inc/em-widgets/flone-blog.php:197
+msgid "Show"
+msgstr ""
+
+#: inc/metabox/metabox-init.php:81
+msgid "Show / Hide breadcrumb for this page"
+msgstr ""
+
+#: inc/metabox/metabox-init.php:47
+msgid "Show / Hide topbar for this page"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:51
+msgid "Show as dropdown"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:194
+msgid "Show Author"
+msgstr ""
+
+#: inc/metabox/metabox-init.php:80
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:149
+msgid "Show Category"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:61
+msgid "Show hierarchy"
+msgstr ""
+
+#: inc/em-widgets/flone-countdown.php:122
+msgid "Show Now"
+msgstr ""
+
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:56
+msgid "Show product counts"
+msgstr ""
+
+#: inc/metabox/metabox-init.php:46
+msgid "Show Topbar"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:43
+msgid "Six"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:348
+msgid "Slide BG Color"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:206
+msgid "Slide List"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:12
+msgid "Slider"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:285
+#: inc/em-widgets/flone-tabbed-products-2.php:210
+#: inc/em-widgets/flone-products.php:268 inc/em-widgets/flone-slider.php:279
+#: inc/em-widgets/flone-tabbed-products.php:301
+msgid "Slider Arrow"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:236
+msgid "Slider Auto Play"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:27 inc/em-widgets/flone-slider.php:32
+msgid "Slider Content"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:275 inc/em-widgets/flone-slider.php:269
+msgid "Slider Dots"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:39
+msgid "Slider Height"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:229
+msgid "Slider Options"
+msgstr ""
+
+#: inc/em-widgets/flone-brands.php:49
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/em-widgets/flone-section-title.php:57
+#: inc/em-widgets/flone-slider.php:340
+msgid "Slider Stying Options"
+msgstr ""
+
+#: inc/em-widgets/flone-team.php:164
+msgid "Social Icons List"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:662
+#: inc/em-widgets/flone-tabbed-products.php:764
+msgid "Space"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:61
+msgid "Specify number of posts that you want to show. Set 0 to get all posts "
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:99
+#: inc/em-widgets/flone-products.php:85
+#: inc/em-widgets/flone-tabbed-products.php:119
+msgid ""
+"Specify number of products that you want to show. Set 0 to get all products "
+msgstr ""
+
+#: inc/em-widgets/flone-banner.php:61
+msgid "Starting at "
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:117 inc/em-widgets/flone-counter.php:74
+#: inc/em-widgets/flone-instagram.php:180
+#: inc/em-widgets/flone-countdown.php:152 inc/em-widgets/flone-blog.php:233
+#: inc/em-widgets/flone-tabbed-products-2.php:308
+#: inc/em-widgets/flone-newsletter.php:77 inc/em-widgets/flone-products.php:389
+#: inc/em-widgets/flone-banner.php:150
+#: inc/em-widgets/flone-masonary-products.php:125
+#: inc/em-widgets/flone-welcome-content.php:71
+#: inc/em-widgets/flone-icon-with-info.php:64 inc/em-widgets/flone-team.php:195
+#: inc/em-widgets/flone-product-categories.php:214
+#: inc/em-widgets/flone-tabbed-products.php:418
+msgid "Stying Options"
+msgstr ""
+
+#: inc/em-widgets/flone-map.php:124 inc/em-widgets/flone-service.php:34
+#: inc/em-widgets/flone-newsletter.php:34
+#: inc/em-widgets/flone-masonary-products.php:47
+#: inc/em-widgets/flone-masonary-products.php:83
+#: inc/em-widgets/flone-slider.php:65
+#: inc/em-widgets/flone-product-categories.php:40
+msgid "Style"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:298 inc/em-widgets/flone-slider.php:292
+msgid "Style 1"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:299 inc/em-widgets/flone-slider.php:293
+msgid "Style 2"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:300 inc/em-widgets/flone-slider.php:294
+msgid "Style 3"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:76
+msgid "Style Eight"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:79
+msgid "Style Eleven"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:73
+msgid "Style Five"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:72
+msgid "Style Four"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:77
+msgid "Style Nine"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:38 inc/em-widgets/flone-blog.php:50
+#: inc/em-widgets/flone-newsletter.php:38 inc/em-widgets/flone-slider.php:69
+#: inc/em-widgets/flone-product-categories.php:44
+msgid "Style One"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:75
+msgid "Style Seven"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:74
+msgid "Style Six"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:78
+msgid "Style Ten"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:40 inc/em-widgets/flone-slider.php:71
+msgid "Style Three"
+msgstr ""
+
+#: inc/em-widgets/flone-service.php:39 inc/em-widgets/flone-blog.php:51
+#: inc/em-widgets/flone-newsletter.php:39 inc/em-widgets/flone-slider.php:70
+#: inc/em-widgets/flone-product-categories.php:45
+msgid "Style Two"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:121 inc/em-widgets/flone-slider.php:212
+msgid "Sub Title"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:132 inc/em-widgets/flone-slider.php:216
+msgid "Sub Title 2"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:491
+msgid "Sub Title 2 Color"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:480
+msgid "Sub Title 2 Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-welcome-content.php:131
+#: inc/em-widgets/flone-slider.php:432
+msgid "Sub Title Color"
+msgstr ""
+
+#: inc/em-widgets/flone-welcome-content.php:119
+#: inc/em-widgets/flone-slider.php:417
+msgid "Sub Title Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-newsletter.php:209
+msgid "Submit BG Color"
+msgstr ""
+
+#: inc/ajax-search/widgets/widget-product-search-ajax.php:27
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/em-widgets/flone-newsletter.php:179
+msgid "Submit Button Typography"
+msgstr ""
+
+#: inc/em-widgets/flone-newsletter.php:239
+msgid "Submit Hover BG Color"
+msgstr ""
+
+#: inc/em-widgets/flone-newsletter.php:224
+msgid "Submit Hover Text Color"
+msgstr ""
+
+#: inc/em-widgets/flone-newsletter.php:194
+msgid "Submit Text Color"
+msgstr ""
+
+#: inc/em-widgets/flone-newsletter.php:48
+msgid "Subscribe"
+msgstr ""
+
+#: inc/em-widgets/flone-newsletter.php:56
+msgid "Subscribe to our newsletter to receive news on update"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:463
+msgid "Subtitle Border Width"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:451
+msgid "Subtitle Padding"
+msgstr ""
+
+#: inc/em-widgets/flone-banner.php:51 inc/em-widgets/flone-slider.php:104
+#: inc/em-widgets/flone-slider.php:123
+msgid "Summer Offer"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products.php:13
+msgid "Tabbed Products"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:13
+msgid "Tabbed Products 2"
+msgstr ""
+
+#: inc/em-widgets/flone-team.php:13
+msgid "Team"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:13
+msgid "Testimonial"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:88
+msgid "Testimonial List"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:226
+msgid "Testimonial Options"
+msgstr ""
+
+#: inc/em-widgets/flone-icon-with-info.php:48
+msgid "Text"
+msgstr ""
+
+#: inc/em-widgets/flone-icon-with-info.php:86
+msgid "Text Color"
+msgstr ""
+
+#: inc/em-widgets/flone-icon-with-info.php:74
+msgid "Text Typography"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:162
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/widgets/widget-footer-logo.php:15
+msgid "This widget show Footer Logo"
+msgstr ""
+
+#: inc/currency/views/backend.php:62 inc/currency/views/backend.php:120
+msgid "Thousand Separator"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:40
+#: inc/em-widgets/flone-products.php:40
+#: inc/em-widgets/flone-tabbed-products.php:40
+msgid "Three"
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:129
+#: inc/em-widgets/flone-instagram.php:146
+#: inc/em-widgets/flone-instagram.php:163
+#: inc/em-widgets/flone-tabbed-products-2.php:257
+#: inc/em-widgets/flone-tabbed-products-2.php:274
+#: inc/em-widgets/flone-tabbed-products-2.php:291
+#: inc/em-widgets/flone-products.php:321 inc/em-widgets/flone-products.php:342
+#: inc/em-widgets/flone-products.php:364 inc/em-widgets/flone-brands.php:95
+#: inc/em-widgets/flone-brands.php:112 inc/em-widgets/flone-brands.php:129
+#: inc/em-widgets/flone-product-categories.php:163
+#: inc/em-widgets/flone-product-categories.php:180
+#: inc/em-widgets/flone-product-categories.php:197
+#: inc/em-widgets/flone-tabbed-products.php:354
+#: inc/em-widgets/flone-tabbed-products.php:375
+#: inc/em-widgets/flone-tabbed-products.php:397
+msgid "Three Column"
+msgstr ""
+
+#: inc/em-widgets/flone-counter.php:35 inc/em-widgets/flone-countdown.php:40
+#: inc/em-widgets/flone-service.php:47 inc/em-widgets/flone-blog.php:118
+#: inc/em-widgets/flone-tabbed-products-2.php:147
+#: inc/em-widgets/flone-newsletter.php:46
+#: inc/em-widgets/flone-newsletter.php:54 inc/em-widgets/flone-products.php:192
+#: inc/em-widgets/flone-banner.php:49 inc/em-widgets/flone-section-title.php:33
+#: inc/em-widgets/flone-welcome-content.php:35
+#: inc/em-widgets/flone-welcome-content.php:45
+#: inc/em-widgets/flone-welcome-content.php:55
+#: inc/em-widgets/flone-slider.php:102
+#: inc/em-widgets/flone-tabbed-products.php:225
+#: inc/ajax-filter/widgets/class-flone-widget-product-categories.php:37
+#: inc/ajax-filter/widgets/class-flone-widget-product-tag-cloud.php:23
+#: inc/ajax-filter/widgets/class-flone-widget-layered-nav.php:75
+#: inc/ajax-filter/widgets/class-flone-widget-price-filter.php:21
+msgid "Title"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:211
+msgid "Title #1"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:215
+msgid "Title #2"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:136
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/em-widgets/flone-welcome-content.php:105
+msgid "Title Border Color"
+msgstr ""
+
+#: inc/em-widgets/flone-counter.php:97 inc/em-widgets/flone-counter.php:123
+#: inc/em-widgets/flone-countdown.php:173 inc/em-widgets/flone-service.php:157
+#: inc/em-widgets/flone-blog.php:256 inc/em-widgets/flone-blog.php:305
+#: inc/em-widgets/flone-banner.php:173
+#: inc/em-widgets/flone-section-title.php:78
+#: inc/em-widgets/flone-welcome-content.php:93
+#: inc/em-widgets/flone-slider.php:380
+#: inc/em-widgets/flone-product-categories.php:237
+msgid "Title Color"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:267
+msgid "Title Hover Color"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:180
+msgid "Title Limit Words"
+msgstr ""
+
+#: inc/em-widgets/flone-blog.php:278 inc/em-widgets/flone-banner.php:185
+#: inc/em-widgets/flone-slider.php:397
+msgid "Title Margin"
+msgstr ""
+
+#: inc/em-widgets/flone-counter.php:85 inc/em-widgets/flone-countdown.php:161
+#: inc/em-widgets/flone-service.php:146 inc/em-widgets/flone-blog.php:244
+#: inc/em-widgets/flone-newsletter.php:88 inc/em-widgets/flone-banner.php:161
+#: inc/em-widgets/flone-section-title.php:68
+#: inc/em-widgets/flone-welcome-content.php:81
+#: inc/em-widgets/flone-slider.php:365
+#: inc/em-widgets/flone-product-categories.php:225
+msgid "Title Typography"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:122
+#: inc/ajax-search/widgets/widget-product-search-ajax.php:44
+msgid "Title:"
+msgstr ""
+
+#: inc/em-widgets/flone-masonary-products.php:87
+msgid "Top"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:72
+#: inc/em-widgets/flone-products.php:58
+#: inc/em-widgets/flone-tabbed-products.php:92
+msgid "Top Rated Products"
+msgstr ""
+
+#: inc/metabox/metabox-init.php:58
+msgid "Topbar Width"
+msgstr ""
+
+#: inc/em-widgets/flone-team.php:173
+msgid "Twitter"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products-2.php:39
+#: inc/em-widgets/flone-products.php:39 inc/em-widgets/flone-banner.php:40
+#: inc/em-widgets/flone-tabbed-products.php:39
+#: inc/em-widgets/flone-tabbed-products.php:54
+msgid "Two"
+msgstr ""
+
+#: inc/em-widgets/flone-instagram.php:128
+#: inc/em-widgets/flone-instagram.php:145
+#: inc/em-widgets/flone-instagram.php:162
+#: inc/em-widgets/flone-tabbed-products-2.php:256
+#: inc/em-widgets/flone-tabbed-products-2.php:273
+#: inc/em-widgets/flone-tabbed-products-2.php:290
+#: inc/em-widgets/flone-products.php:320 inc/em-widgets/flone-products.php:341
+#: inc/em-widgets/flone-products.php:363 inc/em-widgets/flone-brands.php:94
+#: inc/em-widgets/flone-brands.php:111 inc/em-widgets/flone-brands.php:128
+#: inc/em-widgets/flone-product-categories.php:162
+#: inc/em-widgets/flone-product-categories.php:179
+#: inc/em-widgets/flone-product-categories.php:196
+#: inc/em-widgets/flone-tabbed-products.php:353
+#: inc/em-widgets/flone-tabbed-products.php:374
+#: inc/em-widgets/flone-tabbed-products.php:396
+msgid "Two Column"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:624
+#: inc/em-widgets/flone-tabbed-products.php:726
+msgid "Typography"
+msgstr ""
+
+#: inc/currency/views/backend.php:78
+msgid "Update Rate"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:199
+msgid "Upload"
+msgstr ""
+
+#: inc/widgets/widget-footer-logo.php:102
+msgid "Upload Image"
+msgstr ""
+
+#: inc/megamenu/backend-menu-walker.php:122
+msgid "URL"
+msgstr ""
+
+#: inc/em-widgets/flone-slider.php:81
+msgid "Use Same Style For All Slides"
+msgstr ""
+
+#: inc/em-widgets/flone-welcome-content.php:13
+msgid "Welcome Content"
+msgstr ""
+
+#: inc/em-widgets/flone-welcome-content.php:37
+msgid "Welcome To Flone"
+msgstr ""
+
+#: inc/em-widgets/flone-welcome-content.php:47
+msgid "Who Are We"
+msgstr ""
+
+#: inc/em-widgets/flone-testimonial.php:404
+#: inc/em-widgets/flone-products.php:589 inc/em-widgets/flone-products.php:879
+#: inc/em-widgets/flone-tabbed-products.php:691
+#: inc/em-widgets/flone-tabbed-products.php:1021
+msgid "Width"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products.php:795
+msgid "Wishlist BG Color"
+msgstr ""
+
+#: inc/em-widgets/flone-products.php:115
+#: inc/em-widgets/flone-tabbed-products.php:149
+msgid "Wishlist Button"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products.php:809
+msgid "Wishlist Hover BG Color"
+msgstr ""
+
+#: inc/em-widgets/flone-tabbed-products.php:781
+msgid "Wishlist Icon Color"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts.php:132
+msgid "Words Count"
+msgstr ""
+
+#: inc/em-widgets/flone-map.php:87
+msgid "Zoom Level"
+msgstr ""

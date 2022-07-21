@@ -1,0 +1,1700 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Flone\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-26 05:15+0000\n"
+"PO-Revision-Date: 2020-06-26 05:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: inc/woocommerce.php:358
+msgid "%"
+msgstr ""
+
+#. number of items in the mini cart.
+#: inc/woocommerce.php:232
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helper-functions.php:63
+#, php-format
+msgid "%s posts"
+msgstr ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:38
+#: woocommerce/single-product/rating.php:40
+#, php-format
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/cart/cart-totals.php:74
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:62 inc/template-tags.php:120
+msgid ", "
+msgstr ""
+
+#: inc/woocommerce.php:358
+msgid "-"
+msgstr ""
+
+#: inc/theme-option-init.php:743 inc/theme-option-init.php:1339
+msgid "1 Column"
+msgstr ""
+
+#: comments.php:32
+#, php-format
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/content-product_cat.php:35
+#, php-format
+msgid "1 Product"
+msgid_plural "%1$s Products"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-option-init.php:1426
+msgid "2 Column"
+msgstr ""
+
+#: inc/theme-option-init.php:744 inc/theme-option-init.php:1327
+#: inc/theme-option-init.php:1340
+msgid "2 Columns"
+msgstr ""
+
+#: inc/theme-option-init.php:1427
+msgid "3 Column"
+msgstr ""
+
+#: inc/theme-option-init.php:745 inc/theme-option-init.php:1328
+msgid "3 Columns"
+msgstr ""
+
+#: inc/theme-option-init.php:1428
+msgid "4 Column"
+msgstr ""
+
+#: inc/theme-option-init.php:1329
+msgid "4 Columns"
+msgstr ""
+
+#: inc/theme-option-init.php:1168
+msgid "404 Page"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:35
+msgid "Action"
+msgstr ""
+
+#: functions.php:682
+msgid "Activate License"
+msgstr ""
+
+#: inc/theme-option-init.php:1319 woocommerce/wishlist-view.php:99
+msgid "Add To Cart"
+msgstr ""
+
+#: inc/theme-option-init.php:1318
+msgid "Add To Cart Text"
+msgstr ""
+
+#: inc/woocommerce.php:450
+msgid "Add to wishlist"
+msgstr ""
+
+#: functions.php:129 functions.php:138 functions.php:151
+msgid "Add widgets here."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:176
+#, php-format
+msgid "Added on : %s"
+msgstr ""
+
+#: author.php:37
+#, php-format
+msgid "All posts by: %s"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Apply coupon"
+msgstr ""
+
+#: inc/helper-functions.php:60
+#, php-format
+msgid "Archive \"%s\""
+msgstr ""
+
+#: archive.php:49
+msgid "Archives"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:279
+msgid "Ask for an estimate"
+msgstr ""
+
+#: woocommerce/cart/cart.php:90
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/content-single-product-4.php:77
+#: woocommerce/content-single-product-5.php:79
+#: woocommerce/content-single-product-slider.php:65
+#: woocommerce/content-single-product-3.php:71
+#: woocommerce/content-single-product-2.php:83
+#: woocommerce/single-product/product-image.php:59
+msgid "Awaiting product image"
+msgstr ""
+
+#: inc/theme-option-init.php:1016
+msgid "Black"
+msgstr ""
+
+#: inc/theme-option-init.php:722 inc/helper-functions.php:59
+msgid "Blog"
+msgstr ""
+
+#: inc/theme-option-init.php:740
+msgid "Blog Columns"
+msgstr ""
+
+#: inc/theme-option-init.php:813
+msgid "Blog Details Page"
+msgstr ""
+
+#: inc/theme-option-init.php:762
+msgid "Blog Excerpt Length"
+msgstr ""
+
+#: inc/theme-option-init.php:729 inc/theme-option-init.php:821
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: inc/theme-option-init.php:185
+msgid "Body Typography"
+msgstr ""
+
+#: inc/theme-option-init.php:328
+msgid "Bottom padding of the content."
+msgstr ""
+
+#: inc/theme-option-init.php:649
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/theme-option-init.php:677
+msgid "Breadcrumb Background"
+msgstr ""
+
+#: inc/theme-option-init.php:711
+msgid "Breadcrumb Links Color"
+msgstr ""
+
+#: inc/theme-option-init.php:697
+msgid "Breadcrumb Separator Color"
+msgstr ""
+
+#: inc/theme-option-init.php:686
+msgid "Breadcrumb Text Color"
+msgstr ""
+
+#: inc/theme-option-init.php:568
+msgid "Call To Action Text 1"
+msgstr ""
+
+#: inc/theme-option-init.php:575
+msgid "Call To Action Text 2"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:33
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:30
+msgid "Cart totals"
+msgstr ""
+
+#: category.php:38
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:92
+msgid "Checkout"
+msgstr ""
+
+#: inc/theme-option-init.php:1127
+msgid "Choose your preferred background color for the copyright area."
+msgstr ""
+
+#: inc/theme-option-init.php:1027
+msgid "Choose your preferred background color for the footer widget area."
+msgstr ""
+
+#: inc/theme-option-init.php:74
+msgid "Choose your preferred color to change link Color."
+msgstr ""
+
+#: inc/theme-option-init.php:80
+msgid "Choose your preferred color to change link Hover Color."
+msgstr ""
+
+#: inc/theme-option-init.php:369
+msgid "Choose your preferred color to change menu default Color."
+msgstr ""
+
+#: inc/theme-option-init.php:452
+msgid "Choose your preferred color to change sticky menu default Color."
+msgstr ""
+
+#: inc/theme-option-init.php:62
+msgid "Choose your preferred color to change theme main color."
+msgstr ""
+
+#: inc/theme-option-init.php:68
+msgid "Choose your preferred color to change theme secondary color."
+msgstr ""
+
+#: inc/theme-option-init.php:687
+msgid "Choose your preferred text color for the Breadcrumb."
+msgstr ""
+
+#: inc/theme-option-init.php:1142
+msgid "Choose your preferred text color for the copyright area."
+msgstr ""
+
+#: inc/theme-option-init.php:1046
+msgid "Choose your preferred text color for the footer widget area.."
+msgstr ""
+
+#: woocommerce/cart/cart.php:173
+msgid "Clear Shopping Cart"
+msgstr ""
+
+#. Author of the theme
+msgid "codecarnival"
+msgstr ""
+
+#: inc/theme-option-init.php:929
+msgid "Column 1 Class"
+msgstr ""
+
+#: inc/theme-option-init.php:938
+msgid "Column 2 Class"
+msgstr ""
+
+#: inc/theme-option-init.php:947
+msgid "Column 3 Class"
+msgstr ""
+
+#: inc/theme-option-init.php:956
+msgid "Column 4 Class"
+msgstr ""
+
+#: inc/theme-option-init.php:965
+msgid "Column 5 Class"
+msgstr ""
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/helper-functions.php:66
+#, php-format
+msgid "Comments page %s"
+msgstr ""
+
+#: inc/woocommerce.php:697
+msgid "Compare"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:90 template-parts/content.php:110
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: woocommerce/cart/cart.php:170
+msgid "Continue Shopping"
+msgstr ""
+
+#: inc/theme-option-init.php:1389
+msgid ""
+"Control The Gallery Thumbnail Size For Product Details Page. e.g: thumbnail "
+"/ medium / large etc"
+msgstr ""
+
+#: inc/theme-option-init.php:634
+msgid "Controls header top bar padding."
+msgstr ""
+
+#: inc/theme-option-init.php:588
+msgid "Controls the background color of the header top bar area"
+msgstr ""
+
+#: inc/theme-option-init.php:617
+msgid "Controls the color of the top bar right price text."
+msgstr ""
+
+#: inc/theme-option-init.php:608
+msgid "Controls the color of the top bar text."
+msgstr ""
+
+#: inc/theme-option-init.php:914
+msgid "Controls the number of columns in the footer."
+msgstr ""
+
+#: inc/theme-option-init.php:186
+msgid "Controls the typography settings of the body."
+msgstr ""
+
+#: inc/theme-option-init.php:200
+msgid "Controls the typography settings of the H1 heading."
+msgstr ""
+
+#: inc/theme-option-init.php:215
+msgid "Controls the typography settings of the H2 heading."
+msgstr ""
+
+#: inc/theme-option-init.php:230
+msgid "Controls the typography settings of the H3 heading."
+msgstr ""
+
+#: inc/theme-option-init.php:245
+msgid "Controls the typography settings of the H4 heading."
+msgstr ""
+
+#: inc/theme-option-init.php:260
+msgid "Controls the typography settings of the H5 heading."
+msgstr ""
+
+#: inc/theme-option-init.php:275
+msgid "Controls the typography settings of the H6 heading."
+msgstr ""
+
+#: inc/theme-option-init.php:1088
+msgid "Copyright"
+msgstr ""
+
+#: inc/theme-option-init.php:1107
+msgid "Copyright &copy; 2020 .All Rights Reserved."
+msgstr ""
+
+#: inc/theme-option-init.php:1154
+msgid "Copyright Area Link Color"
+msgstr ""
+
+#: inc/theme-option-init.php:1116
+msgid "Copyright Area Padding"
+msgstr ""
+
+#: inc/theme-option-init.php:1126
+msgid "Copyright Bg Color"
+msgstr ""
+
+#: inc/theme-option-init.php:1106
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/theme-option-init.php:1141
+msgid "Copyright Text Color"
+msgstr ""
+
+#: footer.php:173
+msgid "Coryright All Right Reserved."
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Coupon:"
+msgstr ""
+
+#: inc/theme-option-init.php:549
+msgid "Currency Switcher Show/Hide"
+msgstr ""
+
+#: inc/theme-option-init.php:556
+msgid "Currency Switcher Type"
+msgstr ""
+
+#: inc/theme-option-init.php:1358
+msgid "Current Price Color"
+msgstr ""
+
+#: inc/theme-option-init.php:1018
+msgid "Custom"
+msgstr ""
+
+#: inc/woocommerce.php:392
+msgid "Custom SaleFlash Text"
+msgstr ""
+
+#: archive.php:40
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/theme-option-init.php:534 inc/theme-option-init.php:1282
+msgid "Default"
+msgstr ""
+
+#: inc/theme-option-init.php:741
+msgid "Define how many post in a row."
+msgstr ""
+
+#: inc/theme-option-init.php:1325 inc/theme-option-init.php:1424
+msgid "Define how many products show in a row."
+msgstr ""
+
+#: inc/theme-option-init.php:1416
+msgid "Define how many products you want to show in related products area."
+msgstr ""
+
+#: inc/theme-option-init.php:1311
+msgid "Define how many products you want to show in shop page."
+msgstr ""
+
+#: inc/theme-option-init.php:763
+msgid ""
+"Define How many Words will show as a short description. -1 means it will "
+"show full post content."
+msgstr ""
+
+#: inc/theme-option-init.php:1180
+msgid "Description"
+msgstr ""
+
+#: inc/theme-option-init.php:106
+msgid "Discount Bg Color"
+msgstr ""
+
+#: inc/theme-option-init.php:119
+msgid "Discount Text Color"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:37 template-parts/content.php:149
+#: inc/template-tags.php:157
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: functions.php:808
+msgid "Email Address"
+msgstr ""
+
+#: inc/theme-option-init.php:1263 inc/theme-option-init.php:1283
+msgid "Enable"
+msgstr ""
+
+#: inc/theme-option-init.php:165
+msgid "Enable Back To Top"
+msgstr ""
+
+#: inc/theme-option-init.php:666
+msgid "Enable Breadcrumb In Mobile Device"
+msgstr ""
+
+#: inc/theme-option-init.php:973
+msgid "Enable Footer Logo"
+msgstr ""
+
+#: inc/theme-option-init.php:374
+msgid "Enable Full Width Header"
+msgstr ""
+
+#: inc/theme-option-init.php:1280
+msgid "Enable Full Width Shop"
+msgstr ""
+
+#: inc/theme-option-init.php:1395
+msgid "Enable Image Zoom"
+msgstr ""
+
+#: inc/theme-option-init.php:752
+msgid "Enable Post Excerpt"
+msgstr ""
+
+#: inc/theme-option-init.php:143
+msgid "Enable Preloader For Frontpage"
+msgstr ""
+
+#: inc/theme-option-init.php:154
+msgid "Enable Preloader For Shop"
+msgstr ""
+
+#: inc/theme-option-init.php:133
+msgid "Enable Preloader For Whole Site"
+msgstr ""
+
+#: inc/theme-option-init.php:1475
+msgid "Enable Product Tabs Custom Ordering"
+msgstr ""
+
+#: inc/theme-option-init.php:1441 inc/theme-option-init.php:1447
+msgid "Enable Product Tabs Rename"
+msgstr ""
+
+#: inc/theme-option-init.php:991
+msgid "Enable Social Icons"
+msgstr ""
+
+#: inc/theme-option-init.php:425
+msgid "Enable Sticky"
+msgstr ""
+
+#: inc/theme-option-init.php:166
+msgid ""
+"Enable the back to top button that appears in the bottom right corner of the "
+"screen."
+msgstr ""
+
+#: inc/theme-option-init.php:1187
+msgid "Enable this if you want to show search form in the 404 page."
+msgstr ""
+
+#: inc/theme-option-init.php:426
+msgid "Enable to activate the sticky header."
+msgstr ""
+
+#: inc/theme-option-init.php:386
+msgid "Enable to make the header area transparent"
+msgstr ""
+
+#: inc/theme-option-init.php:385
+msgid "Enable Transparent"
+msgstr ""
+
+#: inc/theme-option-init.php:1002
+msgid "Enable Widget Area"
+msgstr ""
+
+#: inc/theme-option-init.php:1207
+msgid "Enter social links to show the icons"
+msgstr ""
+
+#: inc/woocommerce.php:394
+msgid "Enter your prefered SaleFlash text. Ex: Sale / New / Free etc"
+msgstr ""
+
+#: inc/helper-functions.php:64
+msgid "Error 404"
+msgstr ""
+
+#: inc/theme-option-init.php:931 inc/theme-option-init.php:940
+#: inc/theme-option-init.php:949 inc/theme-option-init.php:958
+#: inc/theme-option-init.php:967
+msgid "Example: col-lg-3 col-xs-12"
+msgstr ""
+
+#: functions.php:51
+msgid "Extra header menu, It will show under user icon."
+msgstr ""
+
+#: woocommerce/archive-product.php:85
+msgid "filter"
+msgstr ""
+
+#: inc/theme-option-init.php:921
+msgid "Five Columns"
+msgstr ""
+
+#. Name of the theme
+#: inc/woocommerce.php:374
+msgid "Flone"
+msgstr ""
+
+#: inc/demo-importer.php:35
+msgid "Flone BookStore"
+msgstr ""
+
+#: inc/demo-importer.php:49
+msgid "Flone Electronics"
+msgstr ""
+
+#: inc/demo-importer.php:105
+msgid "Flone Extra"
+msgstr ""
+
+#: inc/demo-importer.php:7
+msgid "Flone Fashion"
+msgstr ""
+
+#: inc/demo-importer.php:63
+msgid "Flone Festival"
+msgstr ""
+
+#: inc/demo-importer.php:77
+msgid "Flone Food"
+msgstr ""
+
+#: inc/demo-importer.php:21
+msgid "Flone Home Accessories"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Flone is a new WordPress theme for Online Shopping. With this theme, we have "
+"presets and different layouts With drag and drop home page layout manager. "
+"You can build many variations of home page layout. We also have ajax cart, "
+"wishlist, compare, zoom and fancybox to bring into a modern look of website. "
+"Some of amazing features like Mega Menu, Elementor, Product Tabs &amp; "
+"Carousel, Contact Form with Google map will makes your website more "
+"attractive."
+msgstr ""
+
+#: functions.php:709 functions.php:713
+msgid "Flone License"
+msgstr ""
+
+#: inc/theme-option-init.php:30 inc/theme-option-init.php:31
+msgid "Flone Options"
+msgstr ""
+
+#: functions.php:697
+msgid "Flone WooCommerce"
+msgstr ""
+
+#: functions.php:736
+msgid "Flone WooCommerce Theme License Info"
+msgstr ""
+
+#: functions.php:792
+msgid "Flone WooCommerce Theme Licensing"
+msgstr ""
+
+#: functions.php:697
+msgid "Flone WP"
+msgstr ""
+
+#: functions.php:709 functions.php:713
+msgid "FloneWooCommerce"
+msgstr ""
+
+#: inc/theme-option-init.php:884
+msgid "Footer"
+msgstr ""
+
+#: inc/theme-option-init.php:1026
+msgid "Footer Bg Color"
+msgstr ""
+
+#: inc/theme-option-init.php:1013
+msgid "Footer Color"
+msgstr ""
+
+#: inc/theme-option-init.php:1073
+msgid "Footer Icon Color"
+msgstr ""
+
+#: inc/theme-option-init.php:1079
+msgid "Footer Icon Hover Color"
+msgstr ""
+
+#: inc/theme-option-init.php:1060
+msgid "Footer Link Color"
+msgstr ""
+
+#: inc/theme-option-init.php:904
+msgid "Footer Style 1"
+msgstr ""
+
+#: inc/theme-option-init.php:905
+msgid "Footer Style 2"
+msgstr ""
+
+#: inc/theme-option-init.php:906
+msgid "Footer Style 3"
+msgstr ""
+
+#: inc/theme-option-init.php:984
+msgid "Footer Text"
+msgstr ""
+
+#: inc/theme-option-init.php:1045
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/theme-option-init.php:1003
+msgid "Footer Widget 1 will be used for this area."
+msgstr ""
+
+#: inc/theme-option-init.php:920
+msgid "Four Columns"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:160
+msgid "Free!"
+msgstr ""
+
+#. Name of the template
+#: inc/theme-option-init.php:533
+msgid "Full Width"
+msgstr ""
+
+#: inc/theme-option-init.php:1374
+msgid "Gallery Style"
+msgstr ""
+
+#: inc/theme-option-init.php:1388
+msgid "Gallery Thumbnail Size"
+msgstr ""
+
+#: inc/theme-option-init.php:53
+msgid "General"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: functions.php:172
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/theme-option-init.php:127
+msgid "Google Map API Key"
+msgstr ""
+
+#: inc/theme-option-init.php:1017
+msgid "Gray"
+msgstr ""
+
+#: inc/theme-option-init.php:1302
+msgid "Grid"
+msgstr ""
+
+#: inc/theme-option-init.php:199
+msgid "H1 Heading Typography"
+msgstr ""
+
+#: inc/theme-option-init.php:214
+msgid "H2 Heading Typography"
+msgstr ""
+
+#: inc/theme-option-init.php:229
+msgid "H3 Heading Typography"
+msgstr ""
+
+#: inc/theme-option-init.php:244
+msgid "H4 Heading Typography"
+msgstr ""
+
+#: inc/theme-option-init.php:259
+msgid "H5 Heading Typography"
+msgstr ""
+
+#: inc/theme-option-init.php:274
+msgid "H6 Heading Typography"
+msgstr ""
+
+#: inc/theme-option-init.php:347
+msgid "Header"
+msgstr ""
+
+#: inc/theme-option-init.php:403 inc/theme-option-init.php:417
+msgid "Header Background color"
+msgstr ""
+
+#: inc/helper-functions.php:58
+msgid "Home"
+msgstr ""
+
+#. URI of the theme
+msgid "https://flone.hasthemes.com/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://hasthemes.com/"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:62 woocommerce/cart/cart.php:30
+msgid "Image"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:167
+msgid "In Stock"
+msgstr ""
+
+#: functions.php:746
+msgid "Invalid"
+msgstr ""
+
+#: 404.php:12 inc/theme-option-init.php:1181
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/theme-option-init.php:542
+msgid "Language Switcher Show/Hide"
+msgstr ""
+
+#: inc/theme-option-init.php:296
+msgid "Layout Settings"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:140
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:760
+msgid "License Expired on"
+msgstr ""
+
+#: functions.php:753
+msgid "License Type"
+msgstr ""
+
+#: inc/theme-option-init.php:73
+msgid "Link Color"
+msgstr ""
+
+#: inc/theme-option-init.php:79
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/theme-option-init.php:1303
+msgid "List"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:77 inc/template-tags.php:127
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: footer.php:38
+msgid "Logo"
+msgstr ""
+
+#: template-parts/header/layout-4.php:75 template-parts/header/layout-5.php:57
+msgid "Logo Light"
+msgstr ""
+
+#: inc/theme-option-init.php:985
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim"
+msgstr ""
+
+#: inc/demo-importer.php:91
+msgid "Medical Demo"
+msgstr ""
+
+#: inc/theme-option-init.php:368
+msgid "Menu Default Color"
+msgstr ""
+
+#: archive.php:43
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:43
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:188
+msgid "Move"
+msgstr ""
+
+#: inc/woocommerce.php:393
+msgid "New!"
+msgstr ""
+
+#: inc/theme-option-init.php:136 inc/theme-option-init.php:146
+#: inc/theme-option-init.php:157 inc/theme-option-init.php:169
+#: inc/theme-option-init.php:377 inc/theme-option-init.php:389
+#: inc/theme-option-init.php:429 inc/theme-option-init.php:462
+#: inc/theme-option-init.php:659 inc/theme-option-init.php:669
+#: inc/theme-option-init.php:755 inc/theme-option-init.php:782
+#: inc/theme-option-init.php:792 inc/theme-option-init.php:802
+#: inc/theme-option-init.php:835 inc/theme-option-init.php:845
+#: inc/theme-option-init.php:855 inc/theme-option-init.php:865
+#: inc/theme-option-init.php:875 inc/theme-option-init.php:894
+#: inc/theme-option-init.php:976 inc/theme-option-init.php:994
+#: inc/theme-option-init.php:1006 inc/theme-option-init.php:1099
+#: inc/theme-option-init.php:1190 inc/theme-option-init.php:1293
+#: inc/theme-option-init.php:1398 inc/theme-option-init.php:1408
+#: inc/theme-option-init.php:1450 inc/theme-option-init.php:1478
+msgid "No"
+msgstr ""
+
+#: inc/helper-functions.php:162
+msgid "No Categories"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:97
+#, php-format
+msgid "No Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:97
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:238
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: inc/theme-option-init.php:733 inc/theme-option-init.php:825
+#: inc/theme-option-init.php:1253
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/theme-option-init.php:902
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/theme-option-init.php:913
+msgid "Number of Footer Columns"
+msgstr ""
+
+#: inc/theme-option-init.php:917
+msgid "One Column"
+msgstr ""
+
+#: inc/theme-option-init.php:85
+msgid "OnSale Bg Color"
+msgstr ""
+
+#: inc/theme-option-init.php:98
+msgid "OnSale Text Color"
+msgstr ""
+
+#: 404.php:11 inc/theme-option-init.php:1175
+msgid "Oops! That page can't be found."
+msgstr ""
+
+#: inc/theme-option-init.php:1486
+msgid "Organize how you want the tabs to appear on the product details page"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:167
+msgid "Out of Stock"
+msgstr ""
+
+#: inc/theme-option-init.php:305
+msgid "Padding around the entire website. "
+msgstr ""
+
+#: inc/theme-option-init.php:1117
+msgid "Padding of the copyright area"
+msgstr ""
+
+#: inc/helper-functions.php:65
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: template-parts/content-page.php:24 template-parts/content.php:101
+#: template-parts/content.php:121
+msgid "Pages:"
+msgstr ""
+
+#: inc/theme-option-init.php:404 inc/theme-option-init.php:418
+msgid "Pick a color to set header area background."
+msgstr ""
+
+#: inc/theme-option-init.php:444
+msgid "Pick a color to set sticky header area background."
+msgstr ""
+
+#: inc/woocommerce.php:400
+msgid ""
+"Place the video link. Only youtube and vimeo video link will be support."
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search Here"
+msgstr ""
+
+#: inc/helper-functions.php:382
+msgctxt "placeholder"
+msgid "Search Product"
+msgstr ""
+
+#: functions.php:687
+msgid ""
+"Please activate your license/purchase code to get automatic theme updates."
+msgstr ""
+
+#: inc/libs/tgm-plugin/init.php:170
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:123
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/helper-functions.php:62
+#, php-format
+msgid "Posts with tag \"%s\""
+msgstr ""
+
+#: inc/theme-option-init.php:1366
+msgid "Previous Price Color"
+msgstr ""
+
+#: woocommerce/cart/cart.php:94
+msgid "Price"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: inc/theme-option-init.php:61
+msgid "Primary Color"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:203
+msgid "Private"
+msgstr ""
+
+#: woocommerce/cart/cart.php:78
+msgid "Product"
+msgstr ""
+
+#: inc/theme-option-init.php:1351
+msgid "Product Details Page"
+msgstr ""
+
+#: woocommerce/cart/cart.php:68
+msgid "Product Image"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:66 woocommerce/cart/cart.php:31
+msgid "Product Name"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: inc/theme-option-init.php:1310
+msgid "Products Per Page"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:206
+msgid "Public"
+msgstr ""
+
+#: functions.php:804
+msgid "Purchase Code / License Key"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:52
+msgid "Qty:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:100 woocommerce/global/quantity-input.php:31
+msgid "Quantity"
+msgstr ""
+
+#: inc/theme-option-init.php:1290
+msgid "Quick View"
+msgstr ""
+
+#: inc/theme-option-init.php:772 inc/helper-functions.php:254
+msgid "Read More"
+msgstr ""
+
+#: inc/theme-option-init.php:771
+msgid "Readmore Text"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/theme-option-init.php:1423
+msgid "Related Product Columns"
+msgstr ""
+
+#: woocommerce/single-product/related.php:24
+msgid "Related Products"
+msgstr ""
+
+#: inc/theme-option-init.php:1436
+msgid "Related products"
+msgstr ""
+
+#: inc/theme-option-init.php:1415
+msgid "Related Products Per Page"
+msgstr ""
+
+#: inc/theme-option-init.php:1435
+msgid "Related Products Text"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:109 woocommerce/wishlist-view.php:220
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/cart/cart.php:61 woocommerce/cart/cart.php:128
+#: woocommerce/cart/mini-cart.php:61
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:220
+msgid "Remove this product"
+msgstr ""
+
+#: inc/libs/tgm-plugin/init.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. Name of the template
+msgid "Right Sidebar"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:29
+msgid "Save"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgid "Search products&hellip;"
+msgstr ""
+
+#: inc/helper-functions.php:61
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#. %s: search query.
+#: search.php:37
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/theme-option-init.php:67
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/theme-option-init.php:353
+msgid "Select Header Style"
+msgstr ""
+
+#: inc/theme-option-init.php:901
+msgid "Select Option"
+msgstr ""
+
+#: inc/theme-option-init.php:930 inc/theme-option-init.php:939
+#: inc/theme-option-init.php:948 inc/theme-option-init.php:957
+#: inc/theme-option-init.php:966
+msgid "Set the column class as per bootstrap grid."
+msgstr ""
+
+#: template-parts/content.php:166 inc/helper-functions.php:259
+msgid "Share :"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:200
+msgid "Shared"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:58 woocommerce/cart/cart-totals.php:59
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:79
+msgid "Shipping :"
+msgstr ""
+
+#: inc/theme-option-init.php:1324
+msgid "Shop Page Columns"
+msgstr ""
+
+#: inc/theme-option-init.php:1337
+msgid "Shop Page Columns In Mobile"
+msgstr ""
+
+#: functions.php:136
+msgid "Shop Sidebar "
+msgstr ""
+
+#: inc/theme-option-init.php:1249
+msgid "Shop Sidebar Position"
+msgstr ""
+
+#: inc/theme-option-init.php:1260 inc/theme-option-init.php:1270
+msgid "Shop Style"
+msgstr ""
+
+#: inc/theme-option-init.php:1300
+msgid "Shop View"
+msgstr ""
+
+#: inc/theme-option-init.php:789 inc/theme-option-init.php:832
+msgid "Show Author"
+msgstr ""
+
+#: inc/theme-option-init.php:656
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: inc/theme-option-init.php:779 inc/theme-option-init.php:852
+msgid "Show Categories"
+msgstr ""
+
+#: inc/theme-option-init.php:1096
+msgid "Show Copyright Area"
+msgstr ""
+
+#: inc/theme-option-init.php:799 inc/theme-option-init.php:842
+msgid "Show Date"
+msgstr ""
+
+#: inc/theme-option-init.php:891
+msgid "Show Footer Widgets Area"
+msgstr ""
+
+#: inc/theme-option-init.php:458
+msgid "Show Header Icons"
+msgstr ""
+
+#: inc/theme-option-init.php:493
+msgid "Show Minicart Icon"
+msgstr ""
+
+#: inc/theme-option-init.php:1186
+msgid "Show Search form"
+msgstr ""
+
+#: inc/theme-option-init.php:472
+msgid "Show Search Icon"
+msgstr ""
+
+#: inc/theme-option-init.php:1405
+msgid "Show Sharing Buttons"
+msgstr ""
+
+#: inc/theme-option-init.php:872
+msgid "Show Social Share"
+msgstr ""
+
+#: inc/theme-option-init.php:862
+msgid "Show Tags"
+msgstr ""
+
+#: inc/theme-option-init.php:459
+msgid "Show the quick navigation icons in header"
+msgstr ""
+
+#: inc/theme-option-init.php:479
+msgid "Show User Icon"
+msgstr ""
+
+#: inc/theme-option-init.php:486
+msgid "Show Wishlist Icon"
+msgstr ""
+
+#: functions.php:127
+msgid "Sidebar"
+msgstr ""
+
+#: inc/theme-option-init.php:731 inc/theme-option-init.php:823
+#: inc/theme-option-init.php:1251
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/theme-option-init.php:732 inc/theme-option-init.php:824
+#: inc/theme-option-init.php:1252
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/theme-option-init.php:327
+msgid "Site Content Padding Bottom"
+msgstr ""
+
+#: inc/theme-option-init.php:315
+msgid "Site Content Padding Top"
+msgstr ""
+
+#: inc/theme-option-init.php:304
+msgid "Site Padding (px)"
+msgstr ""
+
+#: header.php:108
+msgid "Skip to content"
+msgstr ""
+
+#: inc/theme-option-init.php:1206
+msgid "Social Icons"
+msgstr ""
+
+#: inc/theme-option-init.php:1200
+msgid "Social Network"
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: functions.php:741
+msgid "Status"
+msgstr ""
+
+#: inc/theme-option-init.php:443
+msgid "Sticky Header Background color"
+msgstr ""
+
+#: inc/theme-option-init.php:451
+msgid "Sticky Menu Default Color"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:86
+msgid "Stock Status"
+msgstr ""
+
+#: inc/theme-option-init.php:522 inc/theme-option-init.php:1262
+#: inc/theme-option-init.php:1272 inc/theme-option-init.php:1376
+msgid "Style 1"
+msgstr ""
+
+#: inc/theme-option-init.php:523 inc/theme-option-init.php:1273
+#: inc/theme-option-init.php:1377
+msgid "Style 2"
+msgstr ""
+
+#: inc/theme-option-init.php:1378
+msgid "Style 3"
+msgstr ""
+
+#: inc/theme-option-init.php:1379
+msgid "Style 4"
+msgstr ""
+
+#: inc/theme-option-init.php:1380
+msgid "Style 5"
+msgstr ""
+
+#: inc/theme-option-init.php:1381
+msgid "Style 6"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart-totals.php:36
+#: woocommerce/cart/cart-totals.php:37
+msgid "Subtotal"
+msgstr ""
+
+#: functions.php:767
+msgid "Support Expired on"
+msgstr ""
+
+#: inc/theme-option-init.php:1485
+msgid "Tab Custom Ordering"
+msgstr ""
+
+#: inc/theme-option-init.php:1457
+msgid "Tab: Additional Information Text"
+msgstr ""
+
+#: inc/theme-option-init.php:1463
+msgid "Tab: Description Text"
+msgstr ""
+
+#: inc/theme-option-init.php:1469
+msgid "Tab: Reviews Text"
+msgstr ""
+
+#: tag.php:38
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:130
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:80
+#, php-format
+msgid "Tags: %1$s"
+msgstr ""
+
+#: inc/libs/tgm-plugin/init.php:171
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/theme-option-init.php:559
+msgid "Theme Default"
+msgstr ""
+
+#: inc/theme-option-init.php:557
+msgid ""
+"Theme Default - You can only add/update/delete currencies from the dashboard."
+"<br> WC Multi Currency Plugin - It has more options to for the multi "
+"currency."
+msgstr ""
+
+#: inc/theme-option-init.php:569
+msgid "This text will show at the left side (Support HTML Tags)"
+msgstr ""
+
+#: inc/theme-option-init.php:576
+msgid "This text will show at the right side (Support HTML Tags)"
+msgstr ""
+
+#: inc/theme-option-init.php:919
+msgid "Three Columns"
+msgstr ""
+
+#: inc/theme-option-init.php:1174
+msgid "Title"
+msgstr ""
+
+#: inc/theme-option-init.php:505
+msgid "Top Bar"
+msgstr ""
+
+#: inc/theme-option-init.php:587
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: inc/theme-option-init.php:633
+msgid "Top Bar Padding "
+msgstr ""
+
+#: inc/theme-option-init.php:616
+msgid "Top Bar Right Price Color"
+msgstr ""
+
+#: inc/theme-option-init.php:513
+msgid "Top Bar Show/Hide"
+msgstr ""
+
+#: inc/theme-option-init.php:607
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: inc/theme-option-init.php:316
+msgid "Top padding of the content."
+msgstr ""
+
+#: inc/theme-option-init.php:624
+msgid "Topbar Link Color Option"
+msgstr ""
+
+#: inc/theme-option-init.php:520
+msgid "Topbar Style"
+msgstr ""
+
+#: inc/theme-option-init.php:531
+msgid "Topbar Width"
+msgstr ""
+
+#: woocommerce/cart/cart.php:116 woocommerce/cart/cart-totals.php:95
+#: woocommerce/cart/cart-totals.php:96
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:80
+msgid "Total :"
+msgstr ""
+
+#: inc/theme-option-init.php:514
+msgid "Turn on if you want to show the top bar area."
+msgstr ""
+
+#: inc/theme-option-init.php:918
+msgid "Two Columns"
+msgstr ""
+
+#: inc/theme-option-init.php:179
+msgid "Typography"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:73
+msgid "Unit Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32
+msgid "Until Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:152
+msgid "Update cart"
+msgstr ""
+
+#: functions.php:744
+msgid "Valid"
+msgstr ""
+
+#: inc/woocommerce.php:398
+msgid "Video Link"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:91
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/content-single-product-3.php:87
+#: woocommerce/content-single-product-2.php:99
+msgid "View Video"
+msgstr ""
+
+#: inc/woocommerce.php:456
+msgid "View Wishlist"
+msgstr ""
+
+#: inc/woocommerce.php:228
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/theme-option-init.php:560
+msgid "WC Multi Currency Plugin"
+msgstr ""
+
+#: functions.php:813
+msgid ""
+"We will send update news of this product by this email address, don't worry, "
+"we hate spam"
+msgstr ""
+
+#: functions.php:686
+msgid "Welcome to Flone!"
+msgstr ""
+
+#: inc/woocommerce.php:454
+msgid "Wishlist added"
+msgstr ""
+
+#: inc/theme-option-init.php:1243
+msgid "WooCommerce"
+msgstr ""
+
+#: archive.php:46
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:46
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/theme-option-init.php:135 inc/theme-option-init.php:145
+#: inc/theme-option-init.php:156 inc/theme-option-init.php:168
+#: inc/theme-option-init.php:376 inc/theme-option-init.php:388
+#: inc/theme-option-init.php:428 inc/theme-option-init.php:461
+#: inc/theme-option-init.php:658 inc/theme-option-init.php:668
+#: inc/theme-option-init.php:754 inc/theme-option-init.php:781
+#: inc/theme-option-init.php:791 inc/theme-option-init.php:801
+#: inc/theme-option-init.php:834 inc/theme-option-init.php:844
+#: inc/theme-option-init.php:854 inc/theme-option-init.php:864
+#: inc/theme-option-init.php:874 inc/theme-option-init.php:893
+#: inc/theme-option-init.php:975 inc/theme-option-init.php:993
+#: inc/theme-option-init.php:1005 inc/theme-option-init.php:1098
+#: inc/theme-option-init.php:1189 inc/theme-option-init.php:1292
+#: inc/theme-option-init.php:1397 inc/theme-option-init.php:1407
+#: inc/theme-option-init.php:1449 inc/theme-option-init.php:1477
+msgid "Yes"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:28
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/cart/cart.php:25
+msgid "Your cart items"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:269
+msgid "Your email"
+msgstr ""
+
+#: functions.php:773
+msgid "Your License Key"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:49
+msgid "Your order"
+msgstr ""
+
+#: inc/woocommerce.php:399
+msgid "Youtube / Vimeo Video Link"
+msgstr ""

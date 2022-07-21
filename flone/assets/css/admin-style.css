@@ -1,0 +1,24 @@
+.flone-notice{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: relative;
+}
+.flone_license_deactive  .js-ocdi-gl-import-data{
+	pointer-events: none;
+}
+#di_license_notice p{
+	margin-top: 0;
+	font-size: 15px !important;
+}
+.redux-main #woo_tab_custom_ordering_disabled{
+	display: none;
+}
+.redux-main #woo_tab_custom_ordering_enabled{
+	width: auto;
+}
+.menu-item-settings .description-thin, .menu-item-settings .description-wide {
+    display: block;
+}
+.menu-item-edit-active .menu-item-settings {
+    overflow: hidden;
+}
